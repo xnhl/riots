@@ -1,0 +1,5 @@
+md "../../../downloads/Reddit/ActualPublicFreakouts"
+md "../../../downloads/Reddit/ActualPublicFreakouts/Vimeo"
+youtube-dl "https://vimeo.com/manage/videos/607840364" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/ActualPublicFreakouts/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://vimeo.com/581521867" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/ActualPublicFreakouts/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://vimeo.com/471429557" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/ActualPublicFreakouts/Vimeo/%%(title)s (%%(id)s).%%(ext)s"

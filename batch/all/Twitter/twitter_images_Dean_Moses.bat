@@ -1,0 +1,12 @@
+md "../../downloads/Twitter/Dean_Moses
+md "../../downloads/Twitter/Dean_Moses/images"
+curl -k "https://pbs.twimg.com/media/EslcLMlXcAEuhdZ.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EslcLMlXcAEuhdZ.jpg"
+curl -k "https://pbs.twimg.com/media/EhqL3ZrXsAE-tQS.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EhqL3ZrXsAE-tQS.jpg"
+curl -k "https://pbs.twimg.com/media/EeMqZakXkAQXQjw.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EeMqZakXkAQXQjw.jpg"
+curl -k "https://pbs.twimg.com/media/EdBYjHfWAAMuEp8.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EdBYjHfWAAMuEp8.jpg"
+curl -k "https://pbs.twimg.com/media/EaWB-BYWsAAb41J.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EaWB-BYWsAAb41J.jpg"
+curl -k "https://pbs.twimg.com/media/EaGqyorWkAAeb8z.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EaGqyorWkAAeb8z.jpg"
+curl -k "https://pbs.twimg.com/media/EZ9JGZVWsAYpbVy.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EZ9JGZVWsAYpbVy.jpg"
+curl -k "https://pbs.twimg.com/media/EZ12oCjWkAANK0n.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EZ12oCjWkAANK0n.jpg"
+curl -k "https://pbs.twimg.com/media/EZ1vvYdWsAEoAum.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EZ1vvYdWsAEoAum.jpg"
+curl -k "https://pbs.twimg.com/media/EZ1qwyVXgAAfgTw.jpg" -o "../../downloads/Twitter/Dean_Moses/images/EZ1qwyVXgAAfgTw.jpg"

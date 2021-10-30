@@ -1,0 +1,11 @@
+md "../../../downloads/Twitter/CommonSenseNPW
+md "../../../downloads/Twitter/CommonSenseNPW/images"
+curl -k "https://pbs.twimg.com/media/Et7GW4uXMAAHu_m.png" -o "../../../downloads/Twitter/CommonSenseNPW/images/Et7GW4uXMAAHu_m.png"
+curl -k "https://pbs.twimg.com/media/Esli0A0XUAAtur_.png" -o "../../../downloads/Twitter/CommonSenseNPW/images/Esli0A0XUAAtur_.png"
+curl -k "https://pbs.twimg.com/media/EsjtLtKWMAASkJZ.png" -o "../../../downloads/Twitter/CommonSenseNPW/images/EsjtLtKWMAASkJZ.png"
+curl -k "https://pbs.twimg.com/media/ElSHZf1W0AEctFG.png" -o "../../../downloads/Twitter/CommonSenseNPW/images/ElSHZf1W0AEctFG.png"
+curl -k "https://pbs.twimg.com/media/Ek43O1hWAAAZSqn.png" -o "../../../downloads/Twitter/CommonSenseNPW/images/Ek43O1hWAAAZSqn.png"
+curl -k "https://pbs.twimg.com/media/EkCA0GNX0AAg6Pn.jpg" -o "../../../downloads/Twitter/CommonSenseNPW/images/EkCA0GNX0AAg6Pn.jpg"
+curl -k "https://pbs.twimg.com/media/Eh2c2bDWsAMS_dc.jpg" -o "../../../downloads/Twitter/CommonSenseNPW/images/Eh2c2bDWsAMS_dc.jpg"
+curl -k "https://pbs.twimg.com/media/EfEmsS1WkAE3MuE.png" -o "../../../downloads/Twitter/CommonSenseNPW/images/EfEmsS1WkAE3MuE.png"
+curl -k "https://pbs.twimg.com/media/EZpxKUAX0AAh9JK.jpg" -o "../../../downloads/Twitter/CommonSenseNPW/images/EZpxKUAX0AAh9JK.jpg"

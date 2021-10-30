@@ -1,0 +1,7 @@
+md "../../../downloads/Reddit/InsaneProtestors"
+md "../../../downloads/Reddit/InsaneProtestors/images"
+curl -k "https://i.imgur.com/lmxxZuh.png" -o "../../../downloads/Reddit/InsaneProtestors/images/lmxxZuh.png"
+curl -k "https://i.imgur.com/JvM5Gja.jpg" -o "../../../downloads/Reddit/InsaneProtestors/images/JvM5Gja.jpg"
+curl -k "https://i.imgur.com/bbQ9LmA.jpg" -o "../../../downloads/Reddit/InsaneProtestors/images/bbQ9LmA.jpg"
+curl -k "https://i.imgur.com/sUQvJVF.png" -o "../../../downloads/Reddit/InsaneProtestors/images/sUQvJVF.png"
+curl -k "https://i.imgur.com/DqOZuiX.jpg" -o "../../../downloads/Reddit/InsaneProtestors/images/DqOZuiX.jpg"

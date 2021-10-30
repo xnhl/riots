@@ -1,0 +1,6 @@
+md "../../../downloads/Reddit/COMPLETEANARCHY"
+md "../../../downloads/Reddit/COMPLETEANARCHY/Gfycat"
+youtube-dl "https://gfycat.com/bountifulbogusfinwhale" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/COMPLETEANARCHY/Gfycat/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://gfycat.com/marvelouspastharborporpoise" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/COMPLETEANARCHY/Gfycat/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://thumbs.gfycat.com/EnchantingMedicalBee-size_restricted.gif" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/COMPLETEANARCHY/Gfycat/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://gfycat.com/edibleunrulyargentineruddyduck-hong-kong-protest" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/COMPLETEANARCHY/Gfycat/%%(title)s (%%(id)s).%%(ext)s"

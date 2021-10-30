@@ -1,0 +1,8 @@
+md "../../../downloads/Reddit/AntifascistsofReddit"
+md "../../../downloads/Reddit/AntifascistsofReddit/Vimeo"
+youtube-dl "https://vimeo.com/577668380" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/AntifascistsofReddit/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://vimeo.com/557283139" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/AntifascistsofReddit/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://vimeo.com/529077170" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/AntifascistsofReddit/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://vimeo.com/489846285" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/AntifascistsofReddit/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://vimeo.com/41554962" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/AntifascistsofReddit/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
+youtube-dl "https://vimeo.com/409475558" --config-location "../../youtube-dl.conf" -o "../../../downloads/Reddit/AntifascistsofReddit/Vimeo/%%(title)s (%%(id)s).%%(ext)s"
